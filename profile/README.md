@@ -12,7 +12,7 @@ As a young company, the talent and passion of our people is critical to our succ
 
 At RiverBank, we cherish our employees and foster a culture of learning and improvement. From your first day - where you will join a dedicated program to ensure your integration is successful - until many years later, you will be given the required resources to develop personally so that your career at RiverBank gives you a meaningful and lifelong learning experience. 
 
-We are hiring! :rocket: Go to [RiverBank Carreers] for more information.
+We are hiring! :rocket: Go to [RiverBank Careers] for more information.
 
 [RiverBank]: https://www.riverbank.eu/
-[RiverBank Carreers]: https://www.riverbank.eu/careers
+[RiverBank Careers]: https://www.riverbank.eu/careers
