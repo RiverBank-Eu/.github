@@ -6,7 +6,7 @@
 
 From our offices in Amsterdam, Frankfurt, Paris and head-office in Luxemburg we act as a niche lending specialist. Our core focus is to grant loans to Small and Medium Enterprises and Real Estate Investors in Europe using a fast, flexible and reliable IT platform. 
 
-[RiverBank] operates under a full and universal European Banking Licence delivering a one-stop shop approach in the entire EU. 
+RiverBank operates under a full and universal European Banking Licence delivering a one-stop shop approach in the entire EU. 
 
 As a young company, the talent and passion of our people is critical to our success. Together, we share a common set of values rooted in integrity, excellence and strong team work. RiverBank will offer an entrepreneurial environment within the regulatory banking framework - a place for people to learn, to achieve and grow. Our culture will promote diversity and individual perspectives in an international environment, represented by more than 15 nationalities. 
 
