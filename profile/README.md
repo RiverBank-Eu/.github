@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/github/followers/RiverBank-Eu?style=social" alt="github-followers"/>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=RiverBank-Eu.RiverBank-Eu" alt="github-visitors"/>
   <a href="https://www.linkedin.com/company/riverbank-s.a./">
-    <img src="https://img.shields.io/badge/-RiverBank-%230177B5?style=flat&logo=linkedin" alt="linkedin"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-%230177B5?style=flat&logo=linkedin" alt="linkedin"/>
   </a>
   <br><br>
 </div>
