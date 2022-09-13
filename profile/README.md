@@ -8,11 +8,8 @@ From our offices in Amsterdam, Frankfurt, Paris and head-office in Luxemburg we 
 
 RiverBank operates under a full and universal European Banking Licence delivering a one-stop shop approach in the entire EU. 
 
-As a young company, the talent and passion of our people is critical to our success. Together, we share a common set of values rooted in integrity, excellence and strong team work. RiverBank will offer an entrepreneurial environment within the regulatory banking framework - a place for people to learn, to achieve and grow. Our culture will promote diversity and individual perspectives in an international environment, represented by more than 15 nationalities. 
-
-At RiverBank, we cherish our employees and foster a culture of learning and improvement. From your first day - where you will join a dedicated program to ensure your integration is successful - until many years later, you will be given the required resources to develop personally so that your career at RiverBank gives you a meaningful and lifelong learning experience. 
-
 We are hiring! :rocket: Go to [RiverBank Careers] for more information.
+</div>
 
 [RiverBank]: https://www.riverbank.eu/
 [RiverBank Careers]: https://www.riverbank.eu/careers
