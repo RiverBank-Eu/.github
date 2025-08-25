@@ -15,7 +15,7 @@
   
 [RiverBank]’s mission is to be the digital bank that makes financing to SMEs and Real Estate professionals easy. 
 
-From our offices in Amsterdam, Frankfurt, Paris and head-office in Luxemburg we act as a niche lending specialist. Our core focus is to grant loans to Small and Medium Enterprises and Real Estate Investors in Europe using a fast, flexible and reliable IT platform. 
+From our offices in Amsterdam, Paris, Valencia and head-office in Luxemburg we act as a niche lending specialist. Our core focus is to grant loans to Small and Medium Enterprises and Real Estate Investors in Europe using a fast, flexible and reliable IT platform. 
 
 RiverBank operates under a full and universal European Banking Licence delivering a one-stop shop approach in the entire EU. 
 
