@@ -1,6 +1,6 @@
  
 <div id="header" align="center">
-  <img src="https://www.riverbank.eu/assets/images/logo.svg" alt="logo-RiverBank" aria-label="logo-riverbank" width="300"/>
+  <img src="https://www.riverbank.eu/assets/images/logo-riverbank.svg" alt="logo-RiverBank" aria-label="logo-riverbank" width="300"/>
 </div>
 <div id="badges" align="center">
   <br>
