@@ -22,7 +22,7 @@
 
 ## What We Build
 - **Instant Loans:** €3,000 – €200,000, fast approvals
-- **Bespoke Financing:** Corporate & real estate, tailored financing for SMEs and Real Estate Professionals
+- **Bespoke Financing:** Corporate & real estate from €750,000, tailored financing for SMEs and Real Estate Professionals
 - **Business Savings:** Competitive rates, flexible terms
 - **Partner Programs:** Revenue opportunities for intermediaries
 
