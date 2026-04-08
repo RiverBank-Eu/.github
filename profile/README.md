@@ -15,15 +15,16 @@
 [RiverBank] is a **digital-first bank for SMEs across Europe**, combining fast applications, smart tech, and a startup vibe—join us and help build banking’s next era! 🚀
 
 ## Why RiverBank?
-- ⚡ **Speed:** fast loan approvals
+- ⚡ **Speed:** fast loan and corporate deposits approvals
 - 🌍 **Europe-wide reach:** France, Netherlands, Spain, Luxembourg
-- 💻 **Tech-driven:** Modern, cloud-native, all-digital services
+- 💻 **Tech-driven:** Modern, cloud-native services
 - 🛠 **SME Experts:** Custom solutions for business clients
 
 ## What We Build
-- **Bespoke Financing:** Corporate & real estate from €750,000, tailored financing for SMEs and Real Estate Professionals
-- **Business Savings:** Competitive rates, flexible terms
-- **Partner Programs:** Revenue opportunities for introducers
+- **[SME Financing]**: Flexible financing structures for growth, acquisitions, and strategic projects from €1,000,000.
+- **[Real Estate Financing]**: Real Estate Financing for professional investors. Tailored financing starting from €1,000,000, backed by teams with local expertise.
+- **[Business Savings]:** Business Savings Term Deposit. Put surplus cash to work with competitive fixed rates and a straightforward client journey
+- **[Partnerships]:** Fast, flexible financing for your clients. Work with the RiverBank team, who will help you define the right structure and move your deals forward quickly with clear steps.
 
 ## Join the Team! 👩‍💻👨‍💻
 Hungry for impact? Help shape fintech innovation with [RiverBank].  
@@ -54,3 +55,7 @@ Let’s build smarter banking—**together**! ✨
 
 [RiverBank]: https://www.riverbank.eu/
 [RiverBank Careers]: https://www.riverbank.eu/careers
+[Business Savings]: https://riverbank.eu/business-savings
+[Partnerships]: https://riverbank.eu/partner
+[SME Financing]: https://riverbank.eu/sme-lending
+[Real Estate Financing]: https://riverbank.eu/real-estate-lending
